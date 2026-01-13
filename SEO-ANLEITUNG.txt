@@ -1,0 +1,80 @@
+═══════════════════════════════════════════════════════════════
+           SEO-DATEIEN FÜR K.K. GEBÄUDEREINIGUNG
+═══════════════════════════════════════════════════════════════
+
+ENTHALTENE SEO-DATEIEN:
+───────────────────────
+✓ robots.txt        - Erlaubt Suchmaschinen das Crawlen
+✓ sitemap.xml       - Hilft Google beim Indexieren
+✓ index.html        - Mit vollständigen Meta-Tags
+
+META-TAGS IM INDEX.HTML:
+───────────────────────
+✓ Title & Description (optimiert für lokale Suche)
+✓ Keywords für Gebäudereinigung Bodensee
+✓ Open Graph Tags (für Facebook/Social Media)
+✓ Twitter Card Tags
+✓ Geo-Tags (für lokale SEO)
+✓ Schema.org JSON-LD (für Google Rich Results)
+✓ Canonical URL
+
+═══════════════════════════════════════════════════════════════
+                    WICHTIGE SCHRITTE
+═══════════════════════════════════════════════════════════════
+
+1. DOMAIN ANPASSEN (falls nicht kk-gebaeudereinigung.de):
+   ─────────────────────────────────────────────────────
+   In folgenden Dateien die Domain ersetzen:
+   - index.html (alle "kk-gebaeudereinigung.de" URLs)
+   - robots.txt (Sitemap URL)
+   - sitemap.xml (loc URL)
+
+2. OG-IMAGE ERSTELLEN:
+   ───────────────────
+   Erstelle ein Bild namens "og-image.png" (1200x630 Pixel)
+   mit dem K.K. Logo und Text wie:
+   "K.K. Gebäudereinigung - Friedrichshafen & Bodensee"
+   
+   Dieses Bild wird bei Social Media Shares angezeigt.
+
+3. GOOGLE SEARCH CONSOLE:
+   ──────────────────────
+   Nach dem Upload:
+   a) Gehe zu https://search.google.com/search-console
+   b) Property hinzufügen (deine Domain)
+   c) Sitemap einreichen: sitemap.xml
+   d) Indexierung beantragen
+
+4. GOOGLE MY BUSINESS:
+   ───────────────────
+   Erstelle einen Eintrag auf Google My Business:
+   https://business.google.com
+   
+   Mit den gleichen Daten:
+   - Name: K.K. Gebäudereinigung
+   - Adresse: Heinrich-Heine-Straße 33, 88045 Friedrichshafen
+   - Telefon: 0177 8740889
+   - Website: https://kk-gebaeudereinigung.de
+   - Kategorie: Gebäudereinigung
+
+═══════════════════════════════════════════════════════════════
+                    DATEIEN-CHECKLISTE
+═══════════════════════════════════════════════════════════════
+
+Alle diese Dateien auf GitHub hochladen:
+
+[ ] index.html
+[ ] robots.txt
+[ ] sitemap.xml
+[ ] site.webmanifest
+[ ] favicon.ico
+[ ] favicon-16x16.png
+[ ] favicon-32x32.png
+[ ] apple-touch-icon.png
+[ ] android-chrome-192x192.png
+[ ] android-chrome-512x512.png
+[ ] og-image.png (selbst erstellen - 1200x630px)
+[ ] .nojekyll
+[ ] README.md
+
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,8 @@
+# Robots.txt für K.K. Gebäudereinigung
+# https://kk-gebaeudereinigung.de
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kk-gebaeudereinigung.de/sitemap.xml
